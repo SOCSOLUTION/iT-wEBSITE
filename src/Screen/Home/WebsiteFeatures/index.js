@@ -33,7 +33,7 @@ const WebsiteFeatures = () => {
           <p>
             <b>LIVE CHAT</b>
           </p>
-          <p style={{ color: "white", textAlign: "justify", padding: "15px" }}>
+          <p style={{ color: "white", textAlign: "center", padding: "15px" }}>
             LIVE CHAT We provide live chat integration services to interact with
             website visitors in real-time. Our company provides simple chat
             solutions that raise engagement, increase conversions, and enhance
@@ -52,7 +52,7 @@ const WebsiteFeatures = () => {
           <p>
             <b>RESPONSIVE DESIGN</b>
           </p>
-          <p style={{ color: "white", textAlign: "justify", padding: "15px" }}>
+          <p style={{ color: "white", textAlign: "center", padding: "15px" }}>
           Our company offers responsive design services that assure your website will adjust to any device and provide the best user experience. With our mobile-friendly solutions, increase your online presence.
           </p>
         </Grid>
@@ -68,7 +68,7 @@ const WebsiteFeatures = () => {
           <p>
             <b>PAYMENT GATEWAY INTEGRATION</b>
           </p>
-          <p style={{ color: "white", textAlign: "justify", padding: "15px" }}>
+          <p style={{ color: "white", textAlign: "center", padding: "15px" }}>
           We can assist you in streamlining online transactions and giving your clients a flawless checkout experience with our payment gateway integration services. With the help of our trusted solutions, you may simplify your payment procedures and maximize client satisfaction.
           </p>
         </Grid>
@@ -85,7 +85,7 @@ const WebsiteFeatures = () => {
           <p>
             <b>SPEED LIGHT</b>
           </p>
-          <p style={{ color: "white", textAlign: "justify", padding: "15px" }}>
+          <p style={{ color: "white", textAlign: "center", padding: "15px" }}>
           We provide quick page load speed without compromising your security. Our network offers reliable and secure connectivity, so your users  can enjoy flawless online experiences.
           </p>
         </Grid>
@@ -103,7 +103,7 @@ const WebsiteFeatures = () => {
             <b>SOCIAL MEDIA INTEGRATION
 </b>
           </p>
-          <p style={{ color: "white", textAlign: "justify", padding: "15px" }}>
+          <p style={{ color: "white", textAlign: "center", padding: "15px" }}>
           Maximize your social media impact with our expert Social Media integration services. Our agency can help you streamline your social media presence and reach your target audience with greater efficiency and effectiveness.
           </p>
         </Grid>
@@ -122,7 +122,7 @@ const WebsiteFeatures = () => {
 24/7 PHONE SUPPORT
 </b>
           </p>
-          <p style={{ color: "white", textAlign: "justify", padding: "15px" }}>
+          <p style={{ color: "white", textAlign: "center", padding: "15px" }}>
           Our agency provides 24/7 website support services that ensure your website stays up and running smoothly around the clock. Trust our experienced team for reliable and efficient support.
           </p>
         </Grid>

@@ -25,7 +25,7 @@ const GetInTouch = () => {
           <p
             style={{
               color: "white",
-              textAlign: "justify",
+              textAlign: "center",
               paddingLeft: "45px",
               paddingRight: "45px",
             }}
@@ -69,7 +69,7 @@ SEO SERVICES
           <p
             style={{
               color: "white",
-              textAlign: "justify",
+              textAlign: "center",
               paddingLeft: "45px",
               paddingRight: "45px",
             }}
@@ -110,7 +110,7 @@ PAID MARKETING SERVICES
           <p
             style={{
               color: "white",
-              textAlign: "justify",
+              textAlign: "center",
               paddingLeft: "45px",
               paddingRight: "45px",
             }}
@@ -140,11 +140,11 @@ PAID MARKETING SERVICES
             <p style={{ fontSize: "25px", color: "rgb(222,190,22" }}>
               <b>GET IN TOUCH</b>
             </p>
-            <p style={{ color: "white", textAlign: "justify" }}>
+            <p style={{ color: "white", textAlign: "center" }}>
             At our company, we value our customers and are always ready to assist you. Whether you need help with an order or have a general inquiry, we're here to help. You can fill out our contact form or reach out to us directly at [insert phone number] or [insert email address]. We look forward to hearing from you!
             </p>
           </Grid>
-          <Grid item lg={2} md={2}></Grid>
+          {/* <Grid item lg={2} md={2}></Grid>
           <Grid item lg={4} md={4} sm={7}>
             <p style={{ fontSize: "25px", color: "rgb(222,190,22" }}>
               <b>Contact Detail</b>
@@ -156,7 +156,7 @@ PAID MARKETING SERVICES
               distribution of letters, as opposed to using 'Content here,
               content here', making it look like readable English.
             </p>
-          </Grid>
+          </Grid> */}
         </Grid>
       </Container>
       {/* E-Commerce bussiness  */}

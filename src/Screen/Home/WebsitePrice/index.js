@@ -43,7 +43,7 @@ const WebsitePrice = () => {
           <p
             style={{
               color: "white",
-              textAlign: "justify",
+              textAlign: "center",
               paddingLeft: "45px",
               paddingRight: "45px",
             }}
@@ -87,7 +87,7 @@ const WebsitePrice = () => {
           <p
             style={{
               color: "white",
-              textAlign: "justify",
+              textAlign: "center",
               paddingLeft: "45px",
               paddingRight: "45px",
             }}
@@ -132,7 +132,7 @@ const WebsitePrice = () => {
           <p
             style={{
               color: "white",
-              textAlign: "justify",
+              textAlign: "center",
               paddingLeft: "45px",
               paddingRight: "45px",
             }}
@@ -192,7 +192,7 @@ const WebsitePrice = () => {
           <p
             style={{
               color: "white",
-              textAlign: "justify",
+              textAlign: "center",
               paddingLeft: "45px",
               paddingRight: "45px",
             }}
@@ -236,7 +236,7 @@ const WebsitePrice = () => {
           <p
             style={{
               color: "white",
-              textAlign: "justify",
+              textAlign: "center",
               paddingLeft: "45px",
               paddingRight: "45px",
             }}
@@ -282,7 +282,7 @@ const WebsitePrice = () => {
           <p
             style={{
               color: "white",
-              textAlign: "justify",
+              textAlign: "center",
               paddingLeft: "45px",
               paddingRight: "45px",
             }}
